@@ -1,0 +1,11 @@
+https://dotnet.microsoft.com/apps/aspnet/web-apps
+http://tech.jonathangardner.net/wiki/Why_Java_Sucks
+https://developer.nvidia.com/blog/even-easier-introduction-cuda/
+https://mpi4py.readthedocs.io/en/stable/overview.html
+https://dotnet.microsoft.com/apps/aspnet/web-apps
+https://mpi4py.readthedocs.io/en/stable/overview.html
+https://developer.nvidia.com/blog/even-easier-introduction-cuda/
+http://tech.jonathangardner.net/wiki/Why_Java_Sucks
+https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/
+https://www.wildberries.ru/
+
